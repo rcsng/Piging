@@ -99,14 +99,14 @@ export interface JournalEntry {
 }
 
 export const IMAGES = {
-  luzon: '/src/assets/images/luzon_banaue_terraces_1791559225968.jpg',
-  visayas: '/src/assets/images/visayas_chocolate_hills_1791559244743.jpg',
-  mindanao: '/src/assets/images/mindanao_enchanted_river_1791559262578.jpg',
-  bagnet: '/src/assets/images/dish_ilocos_bagnet_1791559275068.jpg',
-  pakbet: '/src/assets/images/dish_ilocos_pakbet_1791559289394.jpg',
-  dinakdakan: '/src/assets/images/dish_la_union_dinakdakan_1791559302985.jpg',
-  tocino: '/src/assets/images/dish_pampanga_tocino_1791559316554.jpg',
-  lunis: '/src/assets/images/dish_batanes_lunis_1791559334177.jpg',
+  luzon: '/images/luzon_banaue_terraces_1791559225968.jpg',
+  visayas: '/images/visayas_chocolate_hills_1791559244743.jpg',
+  mindanao: '/images/mindanao_enchanted_river_1791559262578.jpg',
+  bagnet: '/images/dish_ilocos_bagnet_1791559275068.jpg',
+  pakbet: '/images/dish_ilocos_pakbet_1791559289394.jpg',
+  dinakdakan: '/images/dish_la_union_dinakdakan_1791559302985.jpg',
+  tocino: '/images/dish_pampanga_tocino_1791559316554.jpg',
+  lunis: '/images/dish_batanes_lunis_1791559334177.jpg',
 };
 
 export const ISLAND_GROUPS: IslandGroupData[] = [
